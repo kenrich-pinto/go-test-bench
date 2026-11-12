@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/gin-contrib/multitemplate v0.0.0-20210428235909-8a2f6dd269a0
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-chi/chi v1.5.4
 	github.com/go-openapi/errors v0.20.2
 	github.com/go-openapi/loads v0.21.1
@@ -18,4 +18,5 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 )
